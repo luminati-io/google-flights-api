@@ -1,4 +1,6 @@
-# Google Flights Scraper API
+# Google Flights Scraper
+
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-scraper/google-flights)
 
 This repository provides two ways to extract flight data from Google Flights:
 
@@ -25,7 +27,7 @@ This repository provides two ways to extract flight data from Google Flights:
 ## Free Scraper
 A quick and simple scraper for limited data extraction from Google Flights.
 
-<img width="800" alt="google-flights-scraper" src="https://github.com/user-attachments/assets/44ae10b1-4974-497e-9a7c-c1a762614f0e" />
+<img width="800" alt="google-flights-scraper" src="https://github.com/luminati-io/google-flights-api/blob/main/images/424383720-44ae10b1-4974-497e-9a7c-c1a762614f0e.png" />
 
 ### Setup Requirements
 - [Python 3.9+](https://www.python.org/downloads/)
@@ -176,7 +178,7 @@ print("Response saved to 'google-flights-data.html'.")
 Fine-tune your Google Flights data extraction with these optional parameters.
 
 ### Localization Parameters
-<img width="800" alt="bright-data-google-flights-api-localization" src="https://github.com/user-attachments/assets/e77f10c9-8e44-46aa-be3d-64c756741479" />
+<img width="800" alt="bright-data-google-flights-api-localization" src="https://github.com/luminati-io/google-flights-api/blob/main/images/424454961-e77f10c9-8e44-46aa-be3d-64c756741479.png" />
 
 Customize search results based on location and language:
 
@@ -195,7 +197,7 @@ curl --proxy brd.superproxy.io:33335 --proxy-user brd-customer-<customer-id>-zon
 
 ### Currency Parameter
 
-<img width="800" alt="bright-data-google-flights-api-currency" src="https://github.com/user-attachments/assets/c571e99f-b854-449e-abc2-60149611ad5b" />
+<img width="800" alt="bright-data-google-flights-api-currency" src="https://github.com/luminati-io/google-flights-api/blob/main/images/424820088-c571e99f-b854-449e-abc2-60149611ad5b.png" />
 
 Define the currency for returned prices using the `curr` parameter.
 
