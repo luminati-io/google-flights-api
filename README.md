@@ -40,7 +40,7 @@ playwright install chromium
 >
 
 ### Quick Start
-1. Open [google-flights-scraper.py](https://github.com/triposat/Google-Flights-Scraper-API/blob/main/google-flights-scraper/google-flights-scraper.py)
+1. Open [google-flights-scraper.py](https://github.com/luminati-io/Google-Flights-Scraper-API/blob/main/google-flights-scraper/google-flights-scraper.py)
 2. Update the following variable:
     - `url`: Paste the Google Flights URL (usually contains `tfs`).
 3. Run the script.
@@ -61,7 +61,7 @@ playwright install chromium
 }
 ```
 
-👉  [View complete output sample](https://github.com/triposat/Google-Flights-Scraper-API/blob/main/google-flights-results/flight_results.json)
+👉  [View complete output sample](https://github.com/luminati-io/Google-Flights-Scraper-API/blob/main/google-flights-results/flight_results.json)
 
 
 ### Limitations
@@ -90,7 +90,7 @@ For robust, scalable scraping without these limitations, consider Bright Data's 
 
 1. [Create a Bright Data account](https://brightdata.com/) (new users receive a $5 credit).
 2. Generate your [API key](https://docs.brightdata.com/general/account/api-token).
-3. Follow our [step-by-step guide](https://github.com/triposat/Google-Flights-Scraper-API/blob/main/setup-serp-api-guide.md) to configure the SERP API and set up your credentials.
+3. Follow our [step-by-step guide](https://github.com/luminati-io/Google-Flights-Scraper-API/blob/main/setup-serp-api-guide.md) to configure the SERP API and set up your credentials.
 
 ### Direct API Access
 
@@ -167,7 +167,7 @@ with open("google-flights-data.html", "w", encoding="utf-8") as file:
 print("Response saved to 'google-flights-data.html'.")
 ```
 
-👉 View the [full HTML output](https://github.com/triposat/Google-Flights-Scraper-API/blob/main/google-flights-api-output/google-flights-data.html).
+👉 View the [full HTML output](https://github.com/luminati-io/Google-Flights-Scraper-API/blob/main/google-flights-api-output/google-flights-data.html).
 
 **Note:** For production use, load Bright Data's SSL certificate as per the [SSL Certificate Guide](https://docs.brightdata.com/general/account/ssl-certificate).
 
