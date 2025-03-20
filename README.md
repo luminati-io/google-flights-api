@@ -12,7 +12,7 @@ This repository provides two ways to extract flight data from Google Flights:
    - [Quick Start](#quick-start)
    - [Sample Output](#sample-output)
    - [Limitations](#limitations)
-3. [Google Flights Scraper API](#google-flights-scraper-api)
+3. [Google Flights Scraper API](#google-flights-api)
    - [Key Features](#key-features)
    - [Prerequisites](#prerequisites)
    - [Direct API Access](#direct-api-access)
@@ -40,7 +40,7 @@ playwright install chromium
 >
 
 ### Quick Start
-1. Open [google-flights-scraper.py](https://github.com/luminati-io/Google-Flights-Scraper-API/blob/main/google-flights-scraper/google-flights-scraper.py)
+1. Open [google-flights-scraper.py](https://github.com/luminati-io/google-flights-api/blob/main/google-flights-scraper/google-flights-scraper.py)
 2. Update the following variable:
     - `url`: Paste the Google Flights URL (usually contains `tfs`).
 3. Run the script.
@@ -61,7 +61,7 @@ playwright install chromium
 }
 ```
 
-👉  [View complete output sample](https://github.com/luminati-io/Google-Flights-Scraper-API/blob/main/google-flights-results/flight_results.json)
+👉  [View complete output sample](https://github.com/luminati-io/google-flights-api/blob/main/google-flights-results/flight_results.json)
 
 
 ### Limitations
@@ -90,7 +90,7 @@ For robust, scalable scraping without these limitations, consider Bright Data's 
 
 1. [Create a Bright Data account](https://brightdata.com/) (new users receive a $5 credit).
 2. Generate your [API key](https://docs.brightdata.com/general/account/api-token).
-3. Follow our [step-by-step guide](https://github.com/luminati-io/Google-Flights-Scraper-API/blob/main/setup-serp-api-guide.md) to configure the SERP API and set up your credentials.
+3. Follow our [step-by-step guide](https://github.com/luminati-io/google-flights-api/blob/main/setup-serp-api-guide.md) to configure the SERP API and set up your credentials.
 
 ### Direct API Access
 
@@ -167,7 +167,7 @@ with open("google-flights-data.html", "w", encoding="utf-8") as file:
 print("Response saved to 'google-flights-data.html'.")
 ```
 
-👉 View the [full HTML output](https://github.com/luminati-io/Google-Flights-Scraper-API/blob/main/google-flights-api-output/google-flights-data.html).
+👉 View the [full HTML output](https://github.com/luminati-io/google-flights-api/blob/main/google-flights-api-output/google-flights-data.html).
 
 **Note:** For production use, load Bright Data's SSL certificate as per the [SSL Certificate Guide](https://docs.brightdata.com/general/account/ssl-certificate).
 
@@ -176,7 +176,7 @@ print("Response saved to 'google-flights-data.html'.")
 Fine-tune your Google Flights data extraction with these optional parameters.
 
 ### Localization Parameters
-<img width="800" alt="bright-data-google-flights-scraper-api-localization" src="https://github.com/user-attachments/assets/e77f10c9-8e44-46aa-be3d-64c756741479" />
+<img width="800" alt="bright-data-google-flights-api-localization" src="https://github.com/user-attachments/assets/e77f10c9-8e44-46aa-be3d-64c756741479" />
 
 Customize search results based on location and language:
 
@@ -195,7 +195,7 @@ curl --proxy brd.superproxy.io:33335 --proxy-user brd-customer-<customer-id>-zon
 
 ### Currency Parameter
 
-<img width="800" alt="bright-data-google-flights-scraper-api-currency" src="https://github.com/user-attachments/assets/c571e99f-b854-449e-abc2-60149611ad5b" />
+<img width="800" alt="bright-data-google-flights-api-currency" src="https://github.com/user-attachments/assets/c571e99f-b854-449e-abc2-60149611ad5b" />
 
 Define the currency for returned prices using the `curr` parameter.
 
