@@ -1,0 +1,3185 @@
+{
+  "search_url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI1LTA0LTAxagcIARIDREVMcgcIARIDU0ZPQAFIAXABggELCP___________wGYAQI&curr=USD",
+  "flights": [
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "11:43 AM+1",
+      "duration": "24 hr 43 min",
+      "stops": "1 stop in JFK",
+      "price": "$732",
+      "co2_emissions": "1,361 kg CO2e",
+      "emissions_variation": "+31% emissions"
+    },
+    {
+      "airline": "Korean Air",
+      "departure_time": "6:50 PM",
+      "arrival_time": "10:40 AM+1",
+      "duration": "28 hr 20 min",
+      "stops": "1 stop in ICN",
+      "price": "$810",
+      "co2_emissions": "1,033 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "IndiGo, Turkish AirlinesOperated by Operated Under Lease From Thy",
+      "departure_time": "6:55 AM",
+      "arrival_time": "4:40 PM",
+      "duration": "22 hr 15 min",
+      "stops": "1 stop in IST",
+      "price": "$927",
+      "co2_emissions": "968 kg CO2e",
+      "emissions_variation": "-6% emissions"
+    },
+    {
+      "airline": "Air FranceDelta",
+      "departure_time": "12:50 AM",
+      "arrival_time": "12:50 PM",
+      "duration": "24 hr 30 min",
+      "stops": "1 stop in CDG",
+      "price": "$941",
+      "co2_emissions": "1,030 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Emirates",
+      "departure_time": "4:15 AM",
+      "arrival_time": "2:00 PM",
+      "duration": "22 hr 15 min",
+      "stops": "1 stop in DXB",
+      "price": "$1,139",
+      "co2_emissions": "1,092 kg CO2e",
+      "emissions_variation": "+6% emissions"
+    },
+    {
+      "airline": "IndiGo, Turkish AirlinesOperated by Operated Under Lease From Thy",
+      "departure_time": "6:55 AM",
+      "arrival_time": "10:35 AM+1",
+      "duration": "40 hr 10 min",
+      "stops": "1 stop in IST",
+      "price": "$725",
+      "co2_emissions": "968 kg CO2e",
+      "emissions_variation": "-6% emissions"
+    },
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "8:43 PM+1",
+      "duration": "33 hr 43 min",
+      "stops": "1 stop in JFK",
+      "price": "$732",
+      "co2_emissions": "1,361 kg CO2e",
+      "emissions_variation": "+31% emissions"
+    },
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "12:20 AM+2",
+      "duration": "37 hr 20 min",
+      "stops": "1 stop in JFK",
+      "price": "$732",
+      "co2_emissions": "1,361 kg CO2e",
+      "emissions_variation": "+31% emissions"
+    },
+    {
+      "airline": "AmericanOperated by SkyWest Airlines as American Eagle",
+      "departure_time": "11:30 PM",
+      "arrival_time": "9:40 AM+2",
+      "duration": "46 hr 40 min",
+      "stops": "2 stops in JFK, PHX",
+      "price": "$737",
+      "co2_emissions": "1,099 kg CO2e",
+      "emissions_variation": "+6% emissions"
+    },
+    {
+      "airline": "Qatar Airways",
+      "departure_time": "10:25 AM",
+      "arrival_time": "1:35 PM+1",
+      "duration": "39 hr 40 min",
+      "stops": "1 stop in DOH",
+      "price": "$787",
+      "co2_emissions": "984 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:30 PM",
+      "arrival_time": "8:00 PM+1",
+      "duration": "33 hr",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$889",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:30 PM",
+      "arrival_time": "8:00 PM+1",
+      "duration": "33 hr",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$889",
+      "co2_emissions": "1,143 kg CO2e",
+      "emissions_variation": "+10% emissions"
+    },
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "4:07 PM+1",
+      "duration": "29 hr 7 min",
+      "stops": "2 stops in JFK, PHX",
+      "price": "$912",
+      "co2_emissions": "1,061 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "6:57 PM+1",
+      "duration": "31 hr 57 min",
+      "stops": "2 stops in JFK, PHX",
+      "price": "$912",
+      "co2_emissions": "1,073 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "6:57 PM+1",
+      "duration": "31 hr 57 min",
+      "stops": "2 stops in JFK, PHX",
+      "price": "$912",
+      "co2_emissions": "1,073 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:30 PM",
+      "arrival_time": "8:00 PM+1",
+      "duration": "33 hr",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$912",
+      "co2_emissions": "1,147 kg CO2e",
+      "emissions_variation": "+11% emissions"
+    },
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "10:36 PM+1",
+      "duration": "35 hr 36 min",
+      "stops": "2 stops in JFK, PHX",
+      "price": "$917",
+      "co2_emissions": "1,061 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "10:36 PM+1",
+      "duration": "35 hr 36 min",
+      "stops": "2 stops in JFK, PHX",
+      "price": "$917",
+      "co2_emissions": "1,061 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "LufthansaUnited",
+      "departure_time": "1:45 AM",
+      "arrival_time": "7:00 PM",
+      "duration": "29 hr 45 min",
+      "stops": "1 stop in MUC",
+      "price": "$918",
+      "co2_emissions": "1,038 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:00 PM",
+      "duration": "29 hr 10 min",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$935",
+      "co2_emissions": "1,132 kg CO2e",
+      "emissions_variation": "+9% emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:00 PM",
+      "duration": "29 hr 10 min",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$935",
+      "co2_emissions": "1,063 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "LufthansaUnited",
+      "departure_time": "1:45 AM",
+      "arrival_time": "12:40 PM",
+      "duration": "23 hr 25 min",
+      "stops": "2 stops in MUC, FRA",
+      "price": "$946",
+      "co2_emissions": "1,041 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Finnair, American",
+      "departure_time": "7:40 AM",
+      "arrival_time": "8:55 PM",
+      "duration": "25 hr 45 min",
+      "stops": "2 stops in HEL, LAX",
+      "price": "$949",
+      "co2_emissions": "1,082 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Finnair, Alaska",
+      "departure_time": "7:40 AM",
+      "arrival_time": "9:21 PM",
+      "duration": "26 hr 11 min",
+      "stops": "2 stops in HEL, LAX",
+      "price": "$949",
+      "co2_emissions": "1,081 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Turkish AirlinesIndiGo",
+      "departure_time": "6:20 AM",
+      "arrival_time": "10:35 AM+1",
+      "duration": "40 hr 45 min",
+      "stops": "1 stop in IST",
+      "price": "$949",
+      "co2_emissions": "1,030 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "IndiGo, Qatar AirwaysOperated by Operated Under Wet Lease From Qatar Airways",
+      "departure_time": "5:00 PM",
+      "arrival_time": "1:35 PM+1",
+      "duration": "33 hr 5 min",
+      "stops": "1 stop in DOH",
+      "price": "$958",
+      "co2_emissions": "1,033 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "3:20 AM",
+      "arrival_time": "4:00 PM",
+      "duration": "25 hr 10 min",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,033",
+      "co2_emissions": "1,029 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:30 PM",
+      "arrival_time": "4:00 PM+1",
+      "duration": "29 hr",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,033",
+      "co2_emissions": "1,044 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:30 PM",
+      "arrival_time": "4:00 PM+1",
+      "duration": "29 hr",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,033",
+      "co2_emissions": "1,108 kg CO2e",
+      "emissions_variation": "+7% emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:40 AM",
+      "arrival_time": "6:45 AM+1",
+      "duration": "31 hr 35 min",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,099",
+      "co2_emissions": "995 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Cathay Pacific",
+      "departure_time": "1:00 AM",
+      "arrival_time": "11:15 AM+1",
+      "duration": "46 hr 45 min",
+      "stops": "1 stop in HKG",
+      "price": "$1,101",
+      "co2_emissions": "1,339 kg CO2e",
+      "emissions_variation": "+29% emissions"
+    },
+    {
+      "airline": "SWISS",
+      "departure_time": "1:05 AM",
+      "arrival_time": "4:10 PM",
+      "duration": "27 hr 35 min",
+      "stops": "1 stop in ZRH",
+      "price": "$1,162",
+      "co2_emissions": "910 kg CO2e",
+      "emissions_variation": "-12% emissions"
+    },
+    {
+      "airline": "British AirwaysIberia",
+      "departure_time": "1:35 AM",
+      "arrival_time": "1:50 PM",
+      "duration": "24 hr 45 min",
+      "stops": "1 stop in LHR",
+      "price": "$1,166",
+      "co2_emissions": "1,009 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "British AirwaysIberia",
+      "departure_time": "1:35 AM",
+      "arrival_time": "5:15 PM",
+      "duration": "28 hr 10 min",
+      "stops": "1 stop in LHR",
+      "price": "$1,166",
+      "co2_emissions": "1,009 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "British Airways",
+      "departure_time": "10:05 AM",
+      "arrival_time": "1:50 PM+1",
+      "duration": "40 hr 15 min",
+      "stops": "1 stop in LHR",
+      "price": "$1,180",
+      "co2_emissions": "961 kg CO2e",
+      "emissions_variation": "-7% emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "11:42 AM+1",
+      "duration": "24 hr 37 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "964 kg CO2e",
+      "emissions_variation": "-7% emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "2:04 PM+1",
+      "duration": "26 hr 59 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "1,082 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "3:06 PM+1",
+      "duration": "28 hr 1 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "1,082 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "4:50 PM+1",
+      "duration": "29 hr 45 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "881 kg CO2e",
+      "emissions_variation": "-15% emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "6:07 PM+1",
+      "duration": "31 hr 2 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "964 kg CO2e",
+      "emissions_variation": "-7% emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "7:14 PM+1",
+      "duration": "32 hr 9 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "964 kg CO2e",
+      "emissions_variation": "-7% emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "8:30 PM+1",
+      "duration": "33 hr 25 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "1,082 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "9:41 PM+1",
+      "duration": "34 hr 36 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "1,082 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "11:56 PM+1",
+      "duration": "36 hr 51 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "1,082 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "LufthansaUnited",
+      "departure_time": "2:55 AM",
+      "arrival_time": "12:40 PM",
+      "duration": "22 hr 15 min",
+      "stops": "1 stop in FRA",
+      "price": "$1,195",
+      "co2_emissions": "1,055 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Virgin Atlantic, Delta",
+      "departure_time": "2:05 AM",
+      "arrival_time": "4:22 PM",
+      "duration": "26 hr 47 min",
+      "stops": "2 stops in LHR, SLC",
+      "price": "$1,249",
+      "co2_emissions": "1,840 kg CO2e",
+      "emissions_variation": "+78% emissions"
+    },
+    {
+      "airline": "Virgin Atlantic, Delta",
+      "departure_time": "2:05 AM",
+      "arrival_time": "5:54 PM",
+      "duration": "28 hr 19 min",
+      "stops": "2 stops in LHR, LAX",
+      "price": "$1,249",
+      "co2_emissions": "1,508 kg CO2e",
+      "emissions_variation": "+46% emissions"
+    },
+    {
+      "airline": "Virgin Atlantic, Delta",
+      "departure_time": "2:05 AM",
+      "arrival_time": "6:16 PM",
+      "duration": "28 hr 41 min",
+      "stops": "2 stops in LHR, SLC",
+      "price": "$1,249",
+      "co2_emissions": "1,852 kg CO2e",
+      "emissions_variation": "+79% emissions"
+    },
+    {
+      "airline": "Virgin Atlantic, Delta",
+      "departure_time": "2:05 AM",
+      "arrival_time": "9:19 PM",
+      "duration": "31 hr 44 min",
+      "stops": "2 stops in LHR, LAX",
+      "price": "$1,249",
+      "co2_emissions": "1,508 kg CO2e",
+      "emissions_variation": "+46% emissions"
+    },
+    {
+      "airline": "Virgin Atlantic",
+      "departure_time": "11:10 AM",
+      "arrival_time": "2:20 PM+1",
+      "duration": "39 hr 40 min",
+      "stops": "1 stop in LHR",
+      "price": "$1,249",
+      "co2_emissions": "1,041 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "3:00 PM",
+      "arrival_time": "6:20 PM",
+      "duration": "15 hr 50 min",
+      "stops": "Nonstop",
+      "price": "$1,260",
+      "co2_emissions": "976 kg CO2e",
+      "emissions_variation": "-6% emissions"
+    },
+    {
+      "airline": "Etihad, JetBlue",
+      "departure_time": "4:50 AM",
+      "arrival_time": "8:52 PM",
+      "duration": "28 hr 32 min",
+      "stops": "2 stops in AUH, BOS",
+      "price": "$1,272",
+      "co2_emissions": "1,239 kg CO2e",
+      "emissions_variation": "+20% emissions"
+    },
+    {
+      "airline": "Air India, Asiana Airlines",
+      "departure_time": "12:05 AM",
+      "arrival_time": "3:30 PM",
+      "duration": "27 hr 55 min",
+      "stops": "1 stop in ICN",
+      "price": "$1,305",
+      "co2_emissions": "1,092 kg CO2e",
+      "emissions_variation": "+6% emissions"
+    },
+    {
+      "airline": "Air India, Asiana Airlines, AlaskaOperated by SkyWest Airlines as Alaska SkyWest",
+      "departure_time": "12:05 AM",
+      "arrival_time": "2:42 PM",
+      "duration": "27 hr 7 min",
+      "stops": "2 stops in ICN, LAX",
+      "price": "$1,311",
+      "co2_emissions": "1,191 kg CO2e",
+      "emissions_variation": "+15% emissions"
+    },
+    {
+      "airline": "Emirates",
+      "departure_time": "11:00 AM",
+      "arrival_time": "2:00 PM+1",
+      "duration": "39 hr 30 min",
+      "stops": "1 stop in DXB",
+      "price": "$1,311",
+      "co2_emissions": "1,092 kg CO2e",
+      "emissions_variation": "+6% emissions"
+    },
+    {
+      "airline": "Emirates",
+      "departure_time": "10:00 PM",
+      "arrival_time": "2:00 PM+1",
+      "duration": "28 hr 30 min",
+      "stops": "1 stop in DXB",
+      "price": "$1,311",
+      "co2_emissions": "1,092 kg CO2e",
+      "emissions_variation": "+6% emissions"
+    },
+    {
+      "airline": "ITA",
+      "departure_time": "3:00 AM",
+      "arrival_time": "1:15 PM",
+      "duration": "22 hr 45 min",
+      "stops": "1 stop in FCO",
+      "price": "$1,322",
+      "co2_emissions": "895 kg CO2e",
+      "emissions_variation": "-14% emissions"
+    },
+    {
+      "airline": "ITA, Delta",
+      "departure_time": "3:00 AM",
+      "arrival_time": "7:03 PM",
+      "duration": "28 hr 33 min",
+      "stops": "2 stops in FCO, JFK",
+      "price": "$1,328",
+      "co2_emissions": "1,039 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Qatar Airways",
+      "departure_time": "3:25 AM",
+      "arrival_time": "1:35 PM",
+      "duration": "22 hr 40 min",
+      "stops": "1 stop in DOH",
+      "price": "$1,328",
+      "co2_emissions": "992 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "3:00 AM",
+      "arrival_time": "7:00 AM",
+      "duration": "16 hr 30 min",
+      "stops": "Nonstop",
+      "price": "$1,342",
+      "co2_emissions": "1,387 kg CO2e",
+      "emissions_variation": "+34% emissions"
+    },
+    {
+      "airline": "Lufthansa, United",
+      "departure_time": "1:45 AM",
+      "arrival_time": "2:35 PM",
+      "duration": "25 hr 20 min",
+      "stops": "1 stop in MUC",
+      "price": "$1,370",
+      "co2_emissions": "1,129 kg CO2e",
+      "emissions_variation": "+9% emissions"
+    },
+    {
+      "airline": "Emirates, AlaskaOperated by SkyWest Airlines as Alaska SkyWest",
+      "departure_time": "4:15 AM",
+      "arrival_time": "6:39 PM",
+      "duration": "26 hr 54 min",
+      "stops": "2 stops in DXB, LAX",
+      "price": "$1,374",
+      "co2_emissions": "1,337 kg CO2e",
+      "emissions_variation": "+29% emissions"
+    },
+    {
+      "airline": "Emirates, AlaskaOperated by Horizon Air as Alaska Horizon",
+      "departure_time": "4:15 AM",
+      "arrival_time": "7:45 PM",
+      "duration": "28 hr",
+      "stops": "2 stops in DXB, LAX",
+      "price": "$1,374",
+      "co2_emissions": "1,337 kg CO2e",
+      "emissions_variation": "+29% emissions"
+    },
+    {
+      "airline": "Emirates, Alaska",
+      "departure_time": "4:15 AM",
+      "arrival_time": "9:21 PM",
+      "duration": "29 hr 36 min",
+      "stops": "2 stops in DXB, LAX",
+      "price": "$1,374",
+      "co2_emissions": "1,314 kg CO2e",
+      "emissions_variation": "+27% emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "3:20 AM",
+      "arrival_time": "4:00 PM",
+      "duration": "25 hr 10 min",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,374",
+      "co2_emissions": "1,069 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:00 PM",
+      "duration": "29 hr 10 min",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,374",
+      "co2_emissions": "1,104 kg CO2e",
+      "emissions_variation": "+7% emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:00 PM",
+      "duration": "29 hr 10 min",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,374",
+      "co2_emissions": "1,094 kg CO2e",
+      "emissions_variation": "+6% emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:30 PM",
+      "arrival_time": "4:00 PM+1",
+      "duration": "29 hr",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,374",
+      "co2_emissions": "1,014 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:30 PM",
+      "arrival_time": "4:00 PM+1",
+      "duration": "29 hr",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,374",
+      "co2_emissions": "1,089 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Lufthansa, United",
+      "departure_time": "1:45 AM",
+      "arrival_time": "4:05 PM",
+      "duration": "26 hr 50 min",
+      "stops": "2 stops in MUC, FRA",
+      "price": "$1,403",
+      "co2_emissions": "1,110 kg CO2e",
+      "emissions_variation": "+7% emissions"
+    },
+    {
+      "airline": "Virgin AtlanticDelta",
+      "departure_time": "2:05 AM",
+      "arrival_time": "2:20 PM",
+      "duration": "24 hr 45 min",
+      "stops": "1 stop in LHR",
+      "price": "$1,433",
+      "co2_emissions": "1,055 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "British Airways, AlaskaOperated by SkyWest Airlines as Alaska SkyWest for Alaska Airlines",
+      "departure_time": "1:35 AM",
+      "arrival_time": "6:39 PM",
+      "duration": "29 hr 34 min",
+      "stops": "2 stops in LHR, LAX",
+      "price": "$1,444",
+      "co2_emissions": "1,039 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "British Airways, AlaskaOperated by SkyWest Airlines as Alaska SkyWest for Alaska Airlines",
+      "departure_time": "1:35 AM",
+      "arrival_time": "6:39 PM",
+      "duration": "29 hr 34 min",
+      "stops": "2 stops in LHR, LAX",
+      "price": "$1,444",
+      "co2_emissions": "1,039 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Turkish AirlinesIndiGo",
+      "departure_time": "6:20 AM",
+      "arrival_time": "4:40 PM",
+      "duration": "22 hr 50 min",
+      "stops": "1 stop in IST",
+      "price": "$1,470",
+      "co2_emissions": "1,030 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India, UnitedAsiana Airlines",
+      "departure_time": "12:05 AM",
+      "arrival_time": "11:30 AM",
+      "duration": "23 hr 55 min",
+      "stops": "1 stop in ICN",
+      "price": "$1,480",
+      "co2_emissions": "815 kg CO2e",
+      "emissions_variation": "-21% emissions"
+    },
+    {
+      "airline": "Cathay Pacific",
+      "departure_time": "1:00 AM",
+      "arrival_time": "5:30 PM",
+      "duration": "29 hr",
+      "stops": "1 stop in HKG",
+      "price": "$1,489",
+      "co2_emissions": "893 kg CO2e",
+      "emissions_variation": "-14% emissions"
+    },
+    {
+      "airline": "Air India, UnitedAsiana Airlines",
+      "departure_time": "12:05 AM",
+      "arrival_time": "6:10 AM+1",
+      "duration": "42 hr 35 min",
+      "stops": "1 stop in ICN",
+      "price": "$1,490",
+      "co2_emissions": "815 kg CO2e",
+      "emissions_variation": "-21% emissions"
+    },
+    {
+      "airline": "IndiGo, Qatar AirwaysOperated by Operated Under Wet Lease From Qatar Airways",
+      "departure_time": "4:20 AM",
+      "arrival_time": "1:35 PM",
+      "duration": "21 hr 45 min",
+      "stops": "1 stop in DOH",
+      "price": "$1,566",
+      "co2_emissions": "1,033 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "British Airways, AmericanOperated by SkyWest Airlines as American Eagle",
+      "departure_time": "10:05 AM",
+      "arrival_time": "12:16 AM+1",
+      "duration": "26 hr 41 min",
+      "stops": "2 stops in LHR, LAX",
+      "price": "$1,576",
+      "co2_emissions": "1,083 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "SWISS, United",
+      "departure_time": "1:05 AM",
+      "arrival_time": "1:40 PM",
+      "duration": "25 hr 5 min",
+      "stops": "2 stops in ZRH, LHR",
+      "price": "$1,592",
+      "co2_emissions": "1,316 kg CO2e",
+      "emissions_variation": "+27% emissions"
+    },
+    {
+      "airline": "SWISS, United",
+      "departure_time": "1:05 AM",
+      "arrival_time": "3:25 PM",
+      "duration": "26 hr 50 min",
+      "stops": "2 stops in ZRH, LHR",
+      "price": "$1,592",
+      "co2_emissions": "1,316 kg CO2e",
+      "emissions_variation": "+27% emissions"
+    },
+    {
+      "airline": "JAL",
+      "departure_time": "7:05 PM",
+      "arrival_time": "9:45 AM+1",
+      "duration": "27 hr 10 min",
+      "stops": "1 stop in HND",
+      "price": "$1,636",
+      "co2_emissions": "1,348 kg CO2e",
+      "emissions_variation": "+30% emissions"
+    },
+    {
+      "airline": "JAL",
+      "departure_time": "7:05 PM",
+      "arrival_time": "11:20 AM+1",
+      "duration": "28 hr 45 min",
+      "stops": "1 stop in NRT",
+      "price": "$1,647",
+      "co2_emissions": "1,386 kg CO2e",
+      "emissions_variation": "+34% emissions"
+    },
+    {
+      "airline": "KLM, DeltaOperated by SkyWest DBA Delta Connection",
+      "departure_time": "3:55 AM",
+      "arrival_time": "7:49 PM",
+      "duration": "28 hr 24 min",
+      "stops": "2 stops in AMS, SEA",
+      "price": "$1,670",
+      "co2_emissions": "1,008 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "KLM, Delta",
+      "departure_time": "3:55 AM",
+      "arrival_time": "4:22 PM",
+      "duration": "24 hr 57 min",
+      "stops": "2 stops in AMS, SLC",
+      "price": "$1,678",
+      "co2_emissions": "1,237 kg CO2e",
+      "emissions_variation": "+20% emissions"
+    },
+    {
+      "airline": "Air Astana, UnitedAsiana Airlines",
+      "departure_time": "11:35 AM",
+      "arrival_time": "6:10 AM+1",
+      "duration": "31 hr 5 min",
+      "stops": "2 stops in ALA, ICN",
+      "price": "$1,785",
+      "co2_emissions": "964 kg CO2e",
+      "emissions_variation": "-7% emissions"
+    },
+    {
+      "airline": "Air CanadaUnited",
+      "departure_time": "10:50 PM",
+      "arrival_time": "10:37 AM+1",
+      "duration": "24 hr 17 min",
+      "stops": "1 stop in YYZ",
+      "price": "$1,787",
+      "co2_emissions": "994 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air Canada",
+      "departure_time": "10:50 PM",
+      "arrival_time": "8:07 PM+1",
+      "duration": "33 hr 47 min",
+      "stops": "1 stop in YYZ",
+      "price": "$1,787",
+      "co2_emissions": "1,081 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air Canada",
+      "departure_time": "10:50 PM",
+      "arrival_time": "9:37 PM+1",
+      "duration": "35 hr 17 min",
+      "stops": "1 stop in YYZ",
+      "price": "$1,787",
+      "co2_emissions": "994 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air Astana, Asiana Airlines, United",
+      "departure_time": "11:35 AM",
+      "arrival_time": "6:10 AM+1",
+      "duration": "31 hr 5 min",
+      "stops": "2 stops in ALA, ICN",
+      "price": "$1,795",
+      "co2_emissions": "920 kg CO2e",
+      "emissions_variation": "-11% emissions"
+    },
+    {
+      "airline": "THAI, Asiana Airlines",
+      "departure_time": "11:30 PM",
+      "arrival_time": "3:30 PM+1",
+      "duration": "28 hr 30 min",
+      "stops": "2 stops in BKK, ICN",
+      "price": "$1,832",
+      "co2_emissions": "1,307 kg CO2e",
+      "emissions_variation": "+26% emissions"
+    },
+    {
+      "airline": "Air India, Lufthansa",
+      "departure_time": "1:40 PM",
+      "arrival_time": "12:40 PM+1",
+      "duration": "35 hr 30 min",
+      "stops": "1 stop in FRA",
+      "price": "$1,920",
+      "co2_emissions": "1,372 kg CO2e",
+      "emissions_variation": "+33% emissions"
+    },
+    {
+      "airline": "Air CanadaUnited",
+      "departure_time": "10:50 PM",
+      "arrival_time": "3:31 PM+1",
+      "duration": "29 hr 11 min",
+      "stops": "1 stop in YYZ",
+      "price": "$2,037",
+      "co2_emissions": "1,081 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Lufthansa, Air CanadaOperated by Air Canada Express - Jazz",
+      "departure_time": "2:55 AM",
+      "arrival_time": "8:51 PM",
+      "duration": "30 hr 26 min",
+      "stops": "2 stops in FRA, YVR",
+      "price": "$2,040",
+      "co2_emissions": "1,250 kg CO2e",
+      "emissions_variation": "+21% emissions"
+    },
+    {
+      "airline": "Air Canada, United",
+      "departure_time": "10:50 PM",
+      "arrival_time": "1:31 PM+1",
+      "duration": "27 hr 11 min",
+      "stops": "2 stops in YYZ, DEN",
+      "price": "$2,042",
+      "co2_emissions": "1,086 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "ANA",
+      "departure_time": "6:00 PM",
+      "arrival_time": "4:35 PM+1",
+      "duration": "35 hr 5 min",
+      "stops": "1 stop in HND",
+      "price": "$2,085",
+      "co2_emissions": "916 kg CO2e",
+      "emissions_variation": "-11% emissions"
+    },
+    {
+      "airline": "ANA",
+      "departure_time": "6:00 PM",
+      "arrival_time": "10:35 AM+1",
+      "duration": "29 hr 5 min",
+      "stops": "1 stop in NRT",
+      "price": "$2,097",
+      "co2_emissions": "1,017 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, Philippine Airlines",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:50 PM",
+      "duration": "30 hr",
+      "stops": "2 stops in BKK, MNL",
+      "price": "$2,207",
+      "co2_emissions": "1,175 kg CO2e",
+      "emissions_variation": "+14% emissions"
+    },
+    {
+      "airline": "Malaysia Airlines, Philippine Airlines",
+      "departure_time": "11:00 PM",
+      "arrival_time": "8:50 PM+1",
+      "duration": "34 hr 20 min",
+      "stops": "2 stops in KUL, MNL",
+      "price": "$2,257",
+      "co2_emissions": "1,199 kg CO2e",
+      "emissions_variation": "+16% emissions"
+    },
+    {
+      "airline": "KLM, Delta",
+      "departure_time": "3:55 AM",
+      "arrival_time": "6:16 PM",
+      "duration": "26 hr 51 min",
+      "stops": "2 stops in AMS, SLC",
+      "price": "$2,308",
+      "co2_emissions": "874 kg CO2e",
+      "emissions_variation": "-16% emissions"
+    },
+    {
+      "airline": "THAI, Philippine Airlines",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:50 PM",
+      "duration": "30 hr",
+      "stops": "2 stops in BKK, MNL",
+      "price": "$2,458",
+      "co2_emissions": "1,196 kg CO2e",
+      "emissions_variation": "+16% emissions"
+    },
+    {
+      "airline": "Malaysia Airlines, Philippine Airlines",
+      "departure_time": "11:00 PM",
+      "arrival_time": "8:50 PM+1",
+      "duration": "34 hr 20 min",
+      "stops": "2 stops in KUL, MNL",
+      "price": "$2,505",
+      "co2_emissions": "1,173 kg CO2e",
+      "emissions_variation": "+13% emissions"
+    },
+    {
+      "airline": "Malaysia Airlines, Philippine Airlines",
+      "departure_time": "11:00 PM",
+      "arrival_time": "8:50 PM+1",
+      "duration": "34 hr 20 min",
+      "stops": "2 stops in KUL, MNL",
+      "price": "$2,510",
+      "co2_emissions": "1,258 kg CO2e",
+      "emissions_variation": "+22% emissions"
+    },
+    {
+      "airline": "IndiGo, JAL",
+      "departure_time": "3:30 PM",
+      "arrival_time": "11:20 AM+1",
+      "duration": "32 hr 20 min",
+      "stops": "2 stops in BLR, NRT",
+      "price": "$2,646",
+      "co2_emissions": "1,435 kg CO2e",
+      "emissions_variation": "+39% emissions"
+    },
+    {
+      "airline": "IndiGo, JAL",
+      "departure_time": "4:45 PM",
+      "arrival_time": "11:20 AM+1",
+      "duration": "31 hr 5 min",
+      "stops": "2 stops in BLR, NRT",
+      "price": "$2,646",
+      "co2_emissions": "1,435 kg CO2e",
+      "emissions_variation": "+39% emissions"
+    },
+    {
+      "airline": "IndiGo, JAL",
+      "departure_time": "6:00 PM",
+      "arrival_time": "11:20 AM+1",
+      "duration": "29 hr 50 min",
+      "stops": "2 stops in BLR, NRT",
+      "price": "$2,646",
+      "co2_emissions": "1,435 kg CO2e",
+      "emissions_variation": "+39% emissions"
+    },
+    {
+      "airline": "IndiGo, JAL",
+      "departure_time": "7:00 PM",
+      "arrival_time": "11:20 AM+1",
+      "duration": "28 hr 50 min",
+      "stops": "2 stops in BLR, NRT",
+      "price": "$2,646",
+      "co2_emissions": "1,435 kg CO2e",
+      "emissions_variation": "+39% emissions"
+    },
+    {
+      "airline": "IndiGo, JAL",
+      "departure_time": "8:15 PM",
+      "arrival_time": "11:20 AM+1",
+      "duration": "27 hr 35 min",
+      "stops": "2 stops in BLR, NRT",
+      "price": "$2,646",
+      "co2_emissions": "1,435 kg CO2e",
+      "emissions_variation": "+39% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, JALAmerican",
+      "departure_time": "1:00 AM",
+      "arrival_time": "11:20 AM",
+      "duration": "22 hr 50 min",
+      "stops": "2 stops in HKG, NRT",
+      "price": "$2,937",
+      "co2_emissions": "982 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Emirates",
+      "departure_time": "4:20 PM",
+      "arrival_time": "2:00 PM+1",
+      "duration": "34 hr 10 min",
+      "stops": "1 stop in DXB",
+      "price": "$3,203",
+      "co2_emissions": "4,367 kg CO2e",
+      "emissions_variation": "+322% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, China Southern",
+      "departure_time": "1:00 AM",
+      "arrival_time": "8:40 PM",
+      "duration": "32 hr 10 min",
+      "stops": "2 stops in HKG, CAN",
+      "price": "$3,250",
+      "co2_emissions": "1,124 kg CO2e",
+      "emissions_variation": "+9% emissions"
+    },
+    {
+      "airline": "THAI, United",
+      "departure_time": "11:40 AM",
+      "arrival_time": "6:10 AM+1",
+      "duration": "31 hr",
+      "stops": "2 stops in BKK, ICN",
+      "price": "$3,270",
+      "co2_emissions": "1,193 kg CO2e",
+      "emissions_variation": "+15% emissions"
+    },
+    {
+      "airline": "THAI, United",
+      "departure_time": "11:40 AM",
+      "arrival_time": "6:10 AM+1",
+      "duration": "31 hr",
+      "stops": "2 stops in BKK, ICN",
+      "price": "$3,270",
+      "co2_emissions": "1,193 kg CO2e",
+      "emissions_variation": "+15% emissions"
+    },
+    {
+      "airline": "THAI, China Southern",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:40 PM",
+      "duration": "29 hr 50 min",
+      "stops": "2 stops in BKK, CAN",
+      "price": "$3,288",
+      "co2_emissions": "1,215 kg CO2e",
+      "emissions_variation": "+17% emissions"
+    },
+    {
+      "airline": "THAI, China Southern",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:40 PM",
+      "duration": "29 hr 50 min",
+      "stops": "2 stops in BKK, CAN",
+      "price": "$3,288",
+      "co2_emissions": "1,207 kg CO2e",
+      "emissions_variation": "+17% emissions"
+    },
+    {
+      "airline": "THAI, China Southern",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:40 PM",
+      "duration": "29 hr 50 min",
+      "stops": "2 stops in BKK, CAN",
+      "price": "$3,288",
+      "co2_emissions": "1,252 kg CO2e",
+      "emissions_variation": "+21% emissions"
+    },
+    {
+      "airline": "THAI, China Southern",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:40 PM",
+      "duration": "29 hr 50 min",
+      "stops": "2 stops in BKK, CAN",
+      "price": "$3,288",
+      "co2_emissions": "1,207 kg CO2e",
+      "emissions_variation": "+17% emissions"
+    },
+    {
+      "airline": "THAI, China Southern",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:40 PM",
+      "duration": "29 hr 50 min",
+      "stops": "2 stops in BKK, CAN",
+      "price": "$3,288",
+      "co2_emissions": "1,207 kg CO2e",
+      "emissions_variation": "+17% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, United",
+      "departure_time": "1:00 AM",
+      "arrival_time": "10:50 AM",
+      "duration": "22 hr 20 min",
+      "stops": "2 stops in HKG, TPE",
+      "price": "$3,670",
+      "co2_emissions": "1,352 kg CO2e",
+      "emissions_variation": "+31% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, United",
+      "departure_time": "1:00 AM",
+      "arrival_time": "10:50 AM",
+      "duration": "22 hr 20 min",
+      "stops": "2 stops in HKG, TPE",
+      "price": "$3,670",
+      "co2_emissions": "1,363 kg CO2e",
+      "emissions_variation": "+32% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, STARLUX Airlines",
+      "departure_time": "1:00 AM",
+      "arrival_time": "8:30 PM",
+      "duration": "32 hr",
+      "stops": "2 stops in HKG, TPE",
+      "price": "$3,711",
+      "co2_emissions": "956 kg CO2e",
+      "emissions_variation": "-8% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, STARLUX Airlines",
+      "departure_time": "1:00 AM",
+      "arrival_time": "8:30 PM",
+      "duration": "32 hr",
+      "stops": "2 stops in HKG, TPE",
+      "price": "$3,711",
+      "co2_emissions": "967 kg CO2e",
+      "emissions_variation": "-7% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, STARLUX Airlines",
+      "departure_time": "1:00 AM",
+      "arrival_time": "8:30 PM",
+      "duration": "32 hr",
+      "stops": "2 stops in HKG, TPE",
+      "price": "$3,711",
+      "co2_emissions": "962 kg CO2e",
+      "emissions_variation": "-7% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, STARLUX Airlines",
+      "departure_time": "1:00 AM",
+      "arrival_time": "8:30 PM",
+      "duration": "32 hr",
+      "stops": "2 stops in HKG, TPE",
+      "price": "$3,711",
+      "co2_emissions": "969 kg CO2e",
+      "emissions_variation": "-6% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, STARLUX Airlines",
+      "departure_time": "1:00 AM",
+      "arrival_time": "8:30 PM",
+      "duration": "32 hr",
+      "stops": "2 stops in HKG, TPE",
+      "price": "$3,711",
+      "co2_emissions": "969 kg CO2e",
+      "emissions_variation": "-6% emissions"
+    },
+    {
+      "airline": "Oman Air, Lufthansa",
+      "departure_time": "4:00 PM",
+      "arrival_time": "12:40 PM+2",
+      "duration": "57 hr 10 min",
+      "stops": "2 stops in MCT, FRA",
+      "price": "$4,313",
+      "co2_emissions": "1,112 kg CO2e",
+      "emissions_variation": "+7% emissions"
+    },
+    {
+      "airline": "British Airways, UnitedAustrian, Brussels Airlines",
+      "departure_time": "1:35 AM",
+      "arrival_time": "1:40 PM",
+      "duration": "24 hr 35 min",
+      "stops": "1 stop in LHR",
+      "price": "$4,383",
+      "co2_emissions": "1,302 kg CO2e",
+      "emissions_variation": "+26% emissions"
+    },
+    {
+      "airline": "British Airways, UnitedAustrian, Brussels Airlines",
+      "departure_time": "1:35 AM",
+      "arrival_time": "3:25 PM",
+      "duration": "26 hr 20 min",
+      "stops": "1 stop in LHR",
+      "price": "$4,383",
+      "co2_emissions": "1,302 kg CO2e",
+      "emissions_variation": "+26% emissions"
+    },
+    {
+      "airline": "British Airways, UnitedBrussels Airlines",
+      "departure_time": "1:35 AM",
+      "arrival_time": "7:20 PM",
+      "duration": "30 hr 15 min",
+      "stops": "1 stop in LHR",
+      "price": "$4,403",
+      "co2_emissions": "1,302 kg CO2e",
+      "emissions_variation": "+26% emissions"
+    },
+    {
+      "airline": "Air India, UnitedLufthansa",
+      "departure_time": "1:40 PM",
+      "arrival_time": "4:05 PM+1",
+      "duration": "38 hr 55 min",
+      "stops": "1 stop in FRA",
+      "price": "$4,421",
+      "co2_emissions": "982 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Cathay Pacific, JALAmerican",
+      "departure_time": "1:00 AM",
+      "arrival_time": "11:20 AM",
+      "duration": "22 hr 50 min",
+      "stops": "2 stops in HKG, NRT",
+      "price": "$4,525",
+      "co2_emissions": "1,066 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Cathay Pacific, United",
+      "departure_time": "1:00 AM",
+      "arrival_time": "8:50 AM",
+      "duration": "20 hr 20 min",
+      "stops": "1 stop in HKG",
+      "price": "$5,217",
+      "co2_emissions": "922 kg CO2e",
+      "emissions_variation": "-11% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, UnitedANA",
+      "departure_time": "1:00 AM",
+      "arrival_time": "10:50 AM",
+      "duration": "22 hr 20 min",
+      "stops": "2 stops in HKG, KIX",
+      "price": "$6,304",
+      "co2_emissions": "1,174 kg CO2e",
+      "emissions_variation": "+13% emissions"
+    },
+    {
+      "airline": "ANA, UnitedOperated by ANA Wings",
+      "departure_time": "6:00 PM",
+      "arrival_time": "10:50 AM+1",
+      "duration": "29 hr 20 min",
+      "stops": "2 stops in HND, KIX",
+      "price": "$7,431",
+      "co2_emissions": "1,420 kg CO2e",
+      "emissions_variation": "+37% emissions"
+    },
+    {
+      "airline": "ANA, UnitedOperated by Star Flyer",
+      "departure_time": "6:00 PM",
+      "arrival_time": "10:50 AM+1",
+      "duration": "29 hr 20 min",
+      "stops": "2 stops in HND, KIX",
+      "price": "$7,431",
+      "co2_emissions": "1,426 kg CO2e",
+      "emissions_variation": "+38% emissions"
+    },
+    {
+      "airline": "ANA, United",
+      "departure_time": "6:00 PM",
+      "arrival_time": "10:50 AM+1",
+      "duration": "29 hr 20 min",
+      "stops": "2 stops in HND, KIX",
+      "price": "$7,431",
+      "co2_emissions": "1,422 kg CO2e",
+      "emissions_variation": "+37% emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "2:15 AM",
+      "arrival_time": "6:00 PM",
+      "duration": "28 hr 15 min",
+      "stops": "1 stop in BOM",
+      "price": "Price unavailable",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "5:55 AM",
+      "arrival_time": "6:00 PM",
+      "duration": "24 hr 35 min",
+      "stops": "1 stop in BOM",
+      "price": "Price unavailable",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "7:00 AM",
+      "arrival_time": "6:00 PM",
+      "duration": "23 hr 30 min",
+      "stops": "1 stop in BOM",
+      "price": "Price unavailable",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "7:30 AM",
+      "arrival_time": "6:00 PM",
+      "duration": "23 hr",
+      "stops": "1 stop in BOM",
+      "price": "Price unavailable",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "8:00 AM",
+      "arrival_time": "6:00 PM",
+      "duration": "22 hr 30 min",
+      "stops": "1 stop in BOM",
+      "price": "Price unavailable",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "8:30 AM",
+      "arrival_time": "6:00 PM",
+      "duration": "22 hr",
+      "stops": "1 stop in BOM",
+      "price": "Price unavailable",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "9:00 AM",
+      "arrival_time": "6:00 PM",
+      "duration": "21 hr 30 min",
+      "stops": "1 stop in BOM",
+      "price": "Price unavailable",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Singapore Airlines",
+      "departure_time": "9:00 AM",
+      "arrival_time": "8:15 PM",
+      "duration": "23 hr 45 min",
+      "stops": "1 stop in SIN",
+      "price": "Price unavailable",
+      "co2_emissions": "1,492 kg CO2e",
+      "emissions_variation": "+44% emissions"
+    },
+    {
+      "airline": "Singapore Airlines",
+      "departure_time": "9:00 AM",
+      "arrival_time": "9:40 AM+1",
+      "duration": "37 hr 10 min",
+      "stops": "1 stop in SIN",
+      "price": "Price unavailable",
+      "co2_emissions": "1,031 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "12:10 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "41 hr 50 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "2:10 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "39 hr 50 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "3:30 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "38 hr 30 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "4:00 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "38 hr",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "5:00 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "37 hr",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "6:15 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "35 hr 45 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "7:25 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "34 hr 35 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "8:10 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "33 hr 50 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "8:30 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "33 hr 30 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "9:35 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "32 hr 25 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Singapore Airlines",
+      "departure_time": "9:55 PM",
+      "arrival_time": "9:40 AM+1",
+      "duration": "24 hr 15 min",
+      "stops": "1 stop in SIN",
+      "price": "Price unavailable",
+      "co2_emissions": "1,150 kg CO2e",
+      "emissions_variation": "+11% emissions"
+    },
+    {
+      "airline": "Singapore Airlines",
+      "departure_time": "9:55 PM",
+      "arrival_time": "8:15 PM+1",
+      "duration": "34 hr 50 min",
+      "stops": "1 stop in SIN",
+      "price": "Price unavailable",
+      "co2_emissions": "1,612 kg CO2e",
+      "emissions_variation": "+56% emissions"
+    },
+    {
+      "airline": "Air India Express, Air India",
+      "departure_time": "10:10 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "31 hr 50 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "1,016 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Vietnam Airlines",
+      "departure_time": "11:35 PM",
+      "arrival_time": "6:40 PM+1",
+      "duration": "31 hr 35 min",
+      "stops": "1 stop in SGN",
+      "price": "Price unavailable",
+      "co2_emissions": "1,067 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "11:43 AM+1",
+      "duration": "24 hr 43 min",
+      "stops": "1 stop in JFK",
+      "price": "$732",
+      "co2_emissions": "1,361 kg CO2e",
+      "emissions_variation": "+31% emissions"
+    },
+    {
+      "airline": "Korean Air",
+      "departure_time": "6:50 PM",
+      "arrival_time": "10:40 AM+1",
+      "duration": "28 hr 20 min",
+      "stops": "1 stop in ICN",
+      "price": "$810",
+      "co2_emissions": "1,033 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "IndiGo, Turkish AirlinesOperated by Operated Under Lease From Thy",
+      "departure_time": "6:55 AM",
+      "arrival_time": "4:40 PM",
+      "duration": "22 hr 15 min",
+      "stops": "1 stop in IST",
+      "price": "$927",
+      "co2_emissions": "968 kg CO2e",
+      "emissions_variation": "-6% emissions"
+    },
+    {
+      "airline": "Air FranceDelta",
+      "departure_time": "12:50 AM",
+      "arrival_time": "12:50 PM",
+      "duration": "24 hr 30 min",
+      "stops": "1 stop in CDG",
+      "price": "$941",
+      "co2_emissions": "1,030 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Emirates",
+      "departure_time": "4:15 AM",
+      "arrival_time": "2:00 PM",
+      "duration": "22 hr 15 min",
+      "stops": "1 stop in DXB",
+      "price": "$1,139",
+      "co2_emissions": "1,092 kg CO2e",
+      "emissions_variation": "+6% emissions"
+    },
+    {
+      "airline": "IndiGo, Turkish AirlinesOperated by Operated Under Lease From Thy",
+      "departure_time": "6:55 AM",
+      "arrival_time": "10:35 AM+1",
+      "duration": "40 hr 10 min",
+      "stops": "1 stop in IST",
+      "price": "$725",
+      "co2_emissions": "968 kg CO2e",
+      "emissions_variation": "-6% emissions"
+    },
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "8:43 PM+1",
+      "duration": "33 hr 43 min",
+      "stops": "1 stop in JFK",
+      "price": "$732",
+      "co2_emissions": "1,361 kg CO2e",
+      "emissions_variation": "+31% emissions"
+    },
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "12:20 AM+2",
+      "duration": "37 hr 20 min",
+      "stops": "1 stop in JFK",
+      "price": "$732",
+      "co2_emissions": "1,361 kg CO2e",
+      "emissions_variation": "+31% emissions"
+    },
+    {
+      "airline": "AmericanOperated by SkyWest Airlines as American Eagle",
+      "departure_time": "11:30 PM",
+      "arrival_time": "9:40 AM+2",
+      "duration": "46 hr 40 min",
+      "stops": "2 stops in JFK, PHX",
+      "price": "$737",
+      "co2_emissions": "1,099 kg CO2e",
+      "emissions_variation": "+6% emissions"
+    },
+    {
+      "airline": "Qatar Airways",
+      "departure_time": "10:25 AM",
+      "arrival_time": "1:35 PM+1",
+      "duration": "39 hr 40 min",
+      "stops": "1 stop in DOH",
+      "price": "$787",
+      "co2_emissions": "984 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:30 PM",
+      "arrival_time": "8:00 PM+1",
+      "duration": "33 hr",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$889",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:30 PM",
+      "arrival_time": "8:00 PM+1",
+      "duration": "33 hr",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$889",
+      "co2_emissions": "1,143 kg CO2e",
+      "emissions_variation": "+10% emissions"
+    },
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "4:07 PM+1",
+      "duration": "29 hr 7 min",
+      "stops": "2 stops in JFK, PHX",
+      "price": "$912",
+      "co2_emissions": "1,061 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "6:57 PM+1",
+      "duration": "31 hr 57 min",
+      "stops": "2 stops in JFK, PHX",
+      "price": "$912",
+      "co2_emissions": "1,073 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "6:57 PM+1",
+      "duration": "31 hr 57 min",
+      "stops": "2 stops in JFK, PHX",
+      "price": "$912",
+      "co2_emissions": "1,073 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:30 PM",
+      "arrival_time": "8:00 PM+1",
+      "duration": "33 hr",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$912",
+      "co2_emissions": "1,147 kg CO2e",
+      "emissions_variation": "+11% emissions"
+    },
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "10:36 PM+1",
+      "duration": "35 hr 36 min",
+      "stops": "2 stops in JFK, PHX",
+      "price": "$917",
+      "co2_emissions": "1,061 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "American",
+      "departure_time": "11:30 PM",
+      "arrival_time": "10:36 PM+1",
+      "duration": "35 hr 36 min",
+      "stops": "2 stops in JFK, PHX",
+      "price": "$917",
+      "co2_emissions": "1,061 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "LufthansaUnited",
+      "departure_time": "1:45 AM",
+      "arrival_time": "7:00 PM",
+      "duration": "29 hr 45 min",
+      "stops": "1 stop in MUC",
+      "price": "$918",
+      "co2_emissions": "1,038 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:00 PM",
+      "duration": "29 hr 10 min",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$935",
+      "co2_emissions": "1,132 kg CO2e",
+      "emissions_variation": "+9% emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:00 PM",
+      "duration": "29 hr 10 min",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$935",
+      "co2_emissions": "1,063 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "LufthansaUnited",
+      "departure_time": "1:45 AM",
+      "arrival_time": "12:40 PM",
+      "duration": "23 hr 25 min",
+      "stops": "2 stops in MUC, FRA",
+      "price": "$946",
+      "co2_emissions": "1,041 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Finnair, American",
+      "departure_time": "7:40 AM",
+      "arrival_time": "8:55 PM",
+      "duration": "25 hr 45 min",
+      "stops": "2 stops in HEL, LAX",
+      "price": "$949",
+      "co2_emissions": "1,082 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Finnair, Alaska",
+      "departure_time": "7:40 AM",
+      "arrival_time": "9:21 PM",
+      "duration": "26 hr 11 min",
+      "stops": "2 stops in HEL, LAX",
+      "price": "$949",
+      "co2_emissions": "1,081 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Turkish AirlinesIndiGo",
+      "departure_time": "6:20 AM",
+      "arrival_time": "10:35 AM+1",
+      "duration": "40 hr 45 min",
+      "stops": "1 stop in IST",
+      "price": "$949",
+      "co2_emissions": "1,030 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "IndiGo, Qatar AirwaysOperated by Operated Under Wet Lease From Qatar Airways",
+      "departure_time": "5:00 PM",
+      "arrival_time": "1:35 PM+1",
+      "duration": "33 hr 5 min",
+      "stops": "1 stop in DOH",
+      "price": "$958",
+      "co2_emissions": "1,033 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "3:20 AM",
+      "arrival_time": "4:00 PM",
+      "duration": "25 hr 10 min",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,033",
+      "co2_emissions": "1,029 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:30 PM",
+      "arrival_time": "4:00 PM+1",
+      "duration": "29 hr",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,033",
+      "co2_emissions": "1,044 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:30 PM",
+      "arrival_time": "4:00 PM+1",
+      "duration": "29 hr",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,033",
+      "co2_emissions": "1,108 kg CO2e",
+      "emissions_variation": "+7% emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:40 AM",
+      "arrival_time": "6:45 AM+1",
+      "duration": "31 hr 35 min",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,099",
+      "co2_emissions": "995 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Cathay Pacific",
+      "departure_time": "1:00 AM",
+      "arrival_time": "11:15 AM+1",
+      "duration": "46 hr 45 min",
+      "stops": "1 stop in HKG",
+      "price": "$1,101",
+      "co2_emissions": "1,339 kg CO2e",
+      "emissions_variation": "+29% emissions"
+    },
+    {
+      "airline": "SWISS",
+      "departure_time": "1:05 AM",
+      "arrival_time": "4:10 PM",
+      "duration": "27 hr 35 min",
+      "stops": "1 stop in ZRH",
+      "price": "$1,162",
+      "co2_emissions": "910 kg CO2e",
+      "emissions_variation": "-12% emissions"
+    },
+    {
+      "airline": "British AirwaysIberia",
+      "departure_time": "1:35 AM",
+      "arrival_time": "1:50 PM",
+      "duration": "24 hr 45 min",
+      "stops": "1 stop in LHR",
+      "price": "$1,166",
+      "co2_emissions": "1,009 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "British AirwaysIberia",
+      "departure_time": "1:35 AM",
+      "arrival_time": "5:15 PM",
+      "duration": "28 hr 10 min",
+      "stops": "1 stop in LHR",
+      "price": "$1,166",
+      "co2_emissions": "1,009 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "British Airways",
+      "departure_time": "10:05 AM",
+      "arrival_time": "1:50 PM+1",
+      "duration": "40 hr 15 min",
+      "stops": "1 stop in LHR",
+      "price": "$1,180",
+      "co2_emissions": "961 kg CO2e",
+      "emissions_variation": "-7% emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "11:42 AM+1",
+      "duration": "24 hr 37 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "964 kg CO2e",
+      "emissions_variation": "-7% emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "2:04 PM+1",
+      "duration": "26 hr 59 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "1,082 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "3:06 PM+1",
+      "duration": "28 hr 1 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "1,082 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "4:50 PM+1",
+      "duration": "29 hr 45 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "881 kg CO2e",
+      "emissions_variation": "-15% emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "6:07 PM+1",
+      "duration": "31 hr 2 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "964 kg CO2e",
+      "emissions_variation": "-7% emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "7:14 PM+1",
+      "duration": "32 hr 9 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "964 kg CO2e",
+      "emissions_variation": "-7% emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "8:30 PM+1",
+      "duration": "33 hr 25 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "1,082 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "9:41 PM+1",
+      "duration": "34 hr 36 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "1,082 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "United",
+      "departure_time": "11:35 PM",
+      "arrival_time": "11:56 PM+1",
+      "duration": "36 hr 51 min",
+      "stops": "1 stop in EWR",
+      "price": "$1,194",
+      "co2_emissions": "1,082 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "LufthansaUnited",
+      "departure_time": "2:55 AM",
+      "arrival_time": "12:40 PM",
+      "duration": "22 hr 15 min",
+      "stops": "1 stop in FRA",
+      "price": "$1,195",
+      "co2_emissions": "1,055 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Virgin Atlantic, Delta",
+      "departure_time": "2:05 AM",
+      "arrival_time": "4:22 PM",
+      "duration": "26 hr 47 min",
+      "stops": "2 stops in LHR, SLC",
+      "price": "$1,249",
+      "co2_emissions": "1,840 kg CO2e",
+      "emissions_variation": "+78% emissions"
+    },
+    {
+      "airline": "Virgin Atlantic, Delta",
+      "departure_time": "2:05 AM",
+      "arrival_time": "5:54 PM",
+      "duration": "28 hr 19 min",
+      "stops": "2 stops in LHR, LAX",
+      "price": "$1,249",
+      "co2_emissions": "1,508 kg CO2e",
+      "emissions_variation": "+46% emissions"
+    },
+    {
+      "airline": "Virgin Atlantic, Delta",
+      "departure_time": "2:05 AM",
+      "arrival_time": "6:16 PM",
+      "duration": "28 hr 41 min",
+      "stops": "2 stops in LHR, SLC",
+      "price": "$1,249",
+      "co2_emissions": "1,852 kg CO2e",
+      "emissions_variation": "+79% emissions"
+    },
+    {
+      "airline": "Virgin Atlantic, Delta",
+      "departure_time": "2:05 AM",
+      "arrival_time": "9:19 PM",
+      "duration": "31 hr 44 min",
+      "stops": "2 stops in LHR, LAX",
+      "price": "$1,249",
+      "co2_emissions": "1,508 kg CO2e",
+      "emissions_variation": "+46% emissions"
+    },
+    {
+      "airline": "Virgin Atlantic",
+      "departure_time": "11:10 AM",
+      "arrival_time": "2:20 PM+1",
+      "duration": "39 hr 40 min",
+      "stops": "1 stop in LHR",
+      "price": "$1,249",
+      "co2_emissions": "1,041 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "3:00 PM",
+      "arrival_time": "6:20 PM",
+      "duration": "15 hr 50 min",
+      "stops": "Nonstop",
+      "price": "$1,260",
+      "co2_emissions": "976 kg CO2e",
+      "emissions_variation": "-6% emissions"
+    },
+    {
+      "airline": "Etihad, JetBlue",
+      "departure_time": "4:50 AM",
+      "arrival_time": "8:52 PM",
+      "duration": "28 hr 32 min",
+      "stops": "2 stops in AUH, BOS",
+      "price": "$1,272",
+      "co2_emissions": "1,239 kg CO2e",
+      "emissions_variation": "+20% emissions"
+    },
+    {
+      "airline": "Air India, Asiana Airlines",
+      "departure_time": "12:05 AM",
+      "arrival_time": "3:30 PM",
+      "duration": "27 hr 55 min",
+      "stops": "1 stop in ICN",
+      "price": "$1,305",
+      "co2_emissions": "1,092 kg CO2e",
+      "emissions_variation": "+6% emissions"
+    },
+    {
+      "airline": "Air India, Asiana Airlines, AlaskaOperated by SkyWest Airlines as Alaska SkyWest",
+      "departure_time": "12:05 AM",
+      "arrival_time": "2:42 PM",
+      "duration": "27 hr 7 min",
+      "stops": "2 stops in ICN, LAX",
+      "price": "$1,311",
+      "co2_emissions": "1,191 kg CO2e",
+      "emissions_variation": "+15% emissions"
+    },
+    {
+      "airline": "Emirates",
+      "departure_time": "11:00 AM",
+      "arrival_time": "2:00 PM+1",
+      "duration": "39 hr 30 min",
+      "stops": "1 stop in DXB",
+      "price": "$1,311",
+      "co2_emissions": "1,092 kg CO2e",
+      "emissions_variation": "+6% emissions"
+    },
+    {
+      "airline": "Emirates",
+      "departure_time": "10:00 PM",
+      "arrival_time": "2:00 PM+1",
+      "duration": "28 hr 30 min",
+      "stops": "1 stop in DXB",
+      "price": "$1,311",
+      "co2_emissions": "1,092 kg CO2e",
+      "emissions_variation": "+6% emissions"
+    },
+    {
+      "airline": "ITA",
+      "departure_time": "3:00 AM",
+      "arrival_time": "1:15 PM",
+      "duration": "22 hr 45 min",
+      "stops": "1 stop in FCO",
+      "price": "$1,322",
+      "co2_emissions": "895 kg CO2e",
+      "emissions_variation": "-14% emissions"
+    },
+    {
+      "airline": "ITA, Delta",
+      "departure_time": "3:00 AM",
+      "arrival_time": "7:03 PM",
+      "duration": "28 hr 33 min",
+      "stops": "2 stops in FCO, JFK",
+      "price": "$1,328",
+      "co2_emissions": "1,039 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Qatar Airways",
+      "departure_time": "3:25 AM",
+      "arrival_time": "1:35 PM",
+      "duration": "22 hr 40 min",
+      "stops": "1 stop in DOH",
+      "price": "$1,328",
+      "co2_emissions": "992 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "3:00 AM",
+      "arrival_time": "7:00 AM",
+      "duration": "16 hr 30 min",
+      "stops": "Nonstop",
+      "price": "$1,342",
+      "co2_emissions": "1,387 kg CO2e",
+      "emissions_variation": "+34% emissions"
+    },
+    {
+      "airline": "Lufthansa, United",
+      "departure_time": "1:45 AM",
+      "arrival_time": "2:35 PM",
+      "duration": "25 hr 20 min",
+      "stops": "1 stop in MUC",
+      "price": "$1,370",
+      "co2_emissions": "1,129 kg CO2e",
+      "emissions_variation": "+9% emissions"
+    },
+    {
+      "airline": "Emirates, AlaskaOperated by SkyWest Airlines as Alaska SkyWest",
+      "departure_time": "4:15 AM",
+      "arrival_time": "6:39 PM",
+      "duration": "26 hr 54 min",
+      "stops": "2 stops in DXB, LAX",
+      "price": "$1,374",
+      "co2_emissions": "1,337 kg CO2e",
+      "emissions_variation": "+29% emissions"
+    },
+    {
+      "airline": "Emirates, AlaskaOperated by Horizon Air as Alaska Horizon",
+      "departure_time": "4:15 AM",
+      "arrival_time": "7:45 PM",
+      "duration": "28 hr",
+      "stops": "2 stops in DXB, LAX",
+      "price": "$1,374",
+      "co2_emissions": "1,337 kg CO2e",
+      "emissions_variation": "+29% emissions"
+    },
+    {
+      "airline": "Emirates, Alaska",
+      "departure_time": "4:15 AM",
+      "arrival_time": "9:21 PM",
+      "duration": "29 hr 36 min",
+      "stops": "2 stops in DXB, LAX",
+      "price": "$1,374",
+      "co2_emissions": "1,314 kg CO2e",
+      "emissions_variation": "+27% emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "3:20 AM",
+      "arrival_time": "4:00 PM",
+      "duration": "25 hr 10 min",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,374",
+      "co2_emissions": "1,069 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:00 PM",
+      "duration": "29 hr 10 min",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,374",
+      "co2_emissions": "1,104 kg CO2e",
+      "emissions_variation": "+7% emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:00 PM",
+      "duration": "29 hr 10 min",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,374",
+      "co2_emissions": "1,094 kg CO2e",
+      "emissions_variation": "+6% emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:30 PM",
+      "arrival_time": "4:00 PM+1",
+      "duration": "29 hr",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,374",
+      "co2_emissions": "1,014 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, EVA Air",
+      "departure_time": "11:30 PM",
+      "arrival_time": "4:00 PM+1",
+      "duration": "29 hr",
+      "stops": "2 stops in BKK, TPE",
+      "price": "$1,374",
+      "co2_emissions": "1,089 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Lufthansa, United",
+      "departure_time": "1:45 AM",
+      "arrival_time": "4:05 PM",
+      "duration": "26 hr 50 min",
+      "stops": "2 stops in MUC, FRA",
+      "price": "$1,403",
+      "co2_emissions": "1,110 kg CO2e",
+      "emissions_variation": "+7% emissions"
+    },
+    {
+      "airline": "Virgin AtlanticDelta",
+      "departure_time": "2:05 AM",
+      "arrival_time": "2:20 PM",
+      "duration": "24 hr 45 min",
+      "stops": "1 stop in LHR",
+      "price": "$1,433",
+      "co2_emissions": "1,055 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "British Airways, AlaskaOperated by SkyWest Airlines as Alaska SkyWest for Alaska Airlines",
+      "departure_time": "1:35 AM",
+      "arrival_time": "6:39 PM",
+      "duration": "29 hr 34 min",
+      "stops": "2 stops in LHR, LAX",
+      "price": "$1,444",
+      "co2_emissions": "1,039 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "British Airways, AlaskaOperated by SkyWest Airlines as Alaska SkyWest for Alaska Airlines",
+      "departure_time": "1:35 AM",
+      "arrival_time": "6:39 PM",
+      "duration": "29 hr 34 min",
+      "stops": "2 stops in LHR, LAX",
+      "price": "$1,444",
+      "co2_emissions": "1,039 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Turkish AirlinesIndiGo",
+      "departure_time": "6:20 AM",
+      "arrival_time": "4:40 PM",
+      "duration": "22 hr 50 min",
+      "stops": "1 stop in IST",
+      "price": "$1,470",
+      "co2_emissions": "1,030 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India, UnitedAsiana Airlines",
+      "departure_time": "12:05 AM",
+      "arrival_time": "11:30 AM",
+      "duration": "23 hr 55 min",
+      "stops": "1 stop in ICN",
+      "price": "$1,480",
+      "co2_emissions": "815 kg CO2e",
+      "emissions_variation": "-21% emissions"
+    },
+    {
+      "airline": "Cathay Pacific",
+      "departure_time": "1:00 AM",
+      "arrival_time": "5:30 PM",
+      "duration": "29 hr",
+      "stops": "1 stop in HKG",
+      "price": "$1,489",
+      "co2_emissions": "893 kg CO2e",
+      "emissions_variation": "-14% emissions"
+    },
+    {
+      "airline": "Air India, UnitedAsiana Airlines",
+      "departure_time": "12:05 AM",
+      "arrival_time": "6:10 AM+1",
+      "duration": "42 hr 35 min",
+      "stops": "1 stop in ICN",
+      "price": "$1,490",
+      "co2_emissions": "815 kg CO2e",
+      "emissions_variation": "-21% emissions"
+    },
+    {
+      "airline": "IndiGo, Qatar AirwaysOperated by Operated Under Wet Lease From Qatar Airways",
+      "departure_time": "4:20 AM",
+      "arrival_time": "1:35 PM",
+      "duration": "21 hr 45 min",
+      "stops": "1 stop in DOH",
+      "price": "$1,566",
+      "co2_emissions": "1,033 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "British Airways, AmericanOperated by SkyWest Airlines as American Eagle",
+      "departure_time": "10:05 AM",
+      "arrival_time": "12:16 AM+1",
+      "duration": "26 hr 41 min",
+      "stops": "2 stops in LHR, LAX",
+      "price": "$1,576",
+      "co2_emissions": "1,083 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "SWISS, United",
+      "departure_time": "1:05 AM",
+      "arrival_time": "1:40 PM",
+      "duration": "25 hr 5 min",
+      "stops": "2 stops in ZRH, LHR",
+      "price": "$1,592",
+      "co2_emissions": "1,316 kg CO2e",
+      "emissions_variation": "+27% emissions"
+    },
+    {
+      "airline": "SWISS, United",
+      "departure_time": "1:05 AM",
+      "arrival_time": "3:25 PM",
+      "duration": "26 hr 50 min",
+      "stops": "2 stops in ZRH, LHR",
+      "price": "$1,592",
+      "co2_emissions": "1,316 kg CO2e",
+      "emissions_variation": "+27% emissions"
+    },
+    {
+      "airline": "JAL",
+      "departure_time": "7:05 PM",
+      "arrival_time": "9:45 AM+1",
+      "duration": "27 hr 10 min",
+      "stops": "1 stop in HND",
+      "price": "$1,636",
+      "co2_emissions": "1,348 kg CO2e",
+      "emissions_variation": "+30% emissions"
+    },
+    {
+      "airline": "JAL",
+      "departure_time": "7:05 PM",
+      "arrival_time": "11:20 AM+1",
+      "duration": "28 hr 45 min",
+      "stops": "1 stop in NRT",
+      "price": "$1,647",
+      "co2_emissions": "1,386 kg CO2e",
+      "emissions_variation": "+34% emissions"
+    },
+    {
+      "airline": "KLM, DeltaOperated by SkyWest DBA Delta Connection",
+      "departure_time": "3:55 AM",
+      "arrival_time": "7:49 PM",
+      "duration": "28 hr 24 min",
+      "stops": "2 stops in AMS, SEA",
+      "price": "$1,670",
+      "co2_emissions": "1,008 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "KLM, Delta",
+      "departure_time": "3:55 AM",
+      "arrival_time": "4:22 PM",
+      "duration": "24 hr 57 min",
+      "stops": "2 stops in AMS, SLC",
+      "price": "$1,678",
+      "co2_emissions": "1,237 kg CO2e",
+      "emissions_variation": "+20% emissions"
+    },
+    {
+      "airline": "Air Astana, UnitedAsiana Airlines",
+      "departure_time": "11:35 AM",
+      "arrival_time": "6:10 AM+1",
+      "duration": "31 hr 5 min",
+      "stops": "2 stops in ALA, ICN",
+      "price": "$1,785",
+      "co2_emissions": "964 kg CO2e",
+      "emissions_variation": "-7% emissions"
+    },
+    {
+      "airline": "Air CanadaUnited",
+      "departure_time": "10:50 PM",
+      "arrival_time": "10:37 AM+1",
+      "duration": "24 hr 17 min",
+      "stops": "1 stop in YYZ",
+      "price": "$1,787",
+      "co2_emissions": "994 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air Canada",
+      "departure_time": "10:50 PM",
+      "arrival_time": "8:07 PM+1",
+      "duration": "33 hr 47 min",
+      "stops": "1 stop in YYZ",
+      "price": "$1,787",
+      "co2_emissions": "1,081 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air Canada",
+      "departure_time": "10:50 PM",
+      "arrival_time": "9:37 PM+1",
+      "duration": "35 hr 17 min",
+      "stops": "1 stop in YYZ",
+      "price": "$1,787",
+      "co2_emissions": "994 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air Astana, Asiana Airlines, United",
+      "departure_time": "11:35 AM",
+      "arrival_time": "6:10 AM+1",
+      "duration": "31 hr 5 min",
+      "stops": "2 stops in ALA, ICN",
+      "price": "$1,795",
+      "co2_emissions": "920 kg CO2e",
+      "emissions_variation": "-11% emissions"
+    },
+    {
+      "airline": "THAI, Asiana Airlines",
+      "departure_time": "11:30 PM",
+      "arrival_time": "3:30 PM+1",
+      "duration": "28 hr 30 min",
+      "stops": "2 stops in BKK, ICN",
+      "price": "$1,832",
+      "co2_emissions": "1,307 kg CO2e",
+      "emissions_variation": "+26% emissions"
+    },
+    {
+      "airline": "Air India, Lufthansa",
+      "departure_time": "1:40 PM",
+      "arrival_time": "12:40 PM+1",
+      "duration": "35 hr 30 min",
+      "stops": "1 stop in FRA",
+      "price": "$1,920",
+      "co2_emissions": "1,372 kg CO2e",
+      "emissions_variation": "+33% emissions"
+    },
+    {
+      "airline": "Air CanadaUnited",
+      "departure_time": "10:50 PM",
+      "arrival_time": "3:31 PM+1",
+      "duration": "29 hr 11 min",
+      "stops": "1 stop in YYZ",
+      "price": "$2,037",
+      "co2_emissions": "1,081 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Lufthansa, Air CanadaOperated by Air Canada Express - Jazz",
+      "departure_time": "2:55 AM",
+      "arrival_time": "8:51 PM",
+      "duration": "30 hr 26 min",
+      "stops": "2 stops in FRA, YVR",
+      "price": "$2,040",
+      "co2_emissions": "1,250 kg CO2e",
+      "emissions_variation": "+21% emissions"
+    },
+    {
+      "airline": "Air Canada, United",
+      "departure_time": "10:50 PM",
+      "arrival_time": "1:31 PM+1",
+      "duration": "27 hr 11 min",
+      "stops": "2 stops in YYZ, DEN",
+      "price": "$2,042",
+      "co2_emissions": "1,086 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "ANA",
+      "departure_time": "6:00 PM",
+      "arrival_time": "4:35 PM+1",
+      "duration": "35 hr 5 min",
+      "stops": "1 stop in HND",
+      "price": "$2,085",
+      "co2_emissions": "916 kg CO2e",
+      "emissions_variation": "-11% emissions"
+    },
+    {
+      "airline": "ANA",
+      "departure_time": "6:00 PM",
+      "arrival_time": "10:35 AM+1",
+      "duration": "29 hr 5 min",
+      "stops": "1 stop in NRT",
+      "price": "$2,097",
+      "co2_emissions": "1,017 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "THAI, Philippine Airlines",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:50 PM",
+      "duration": "30 hr",
+      "stops": "2 stops in BKK, MNL",
+      "price": "$2,207",
+      "co2_emissions": "1,175 kg CO2e",
+      "emissions_variation": "+14% emissions"
+    },
+    {
+      "airline": "Malaysia Airlines, Philippine Airlines",
+      "departure_time": "11:00 PM",
+      "arrival_time": "8:50 PM+1",
+      "duration": "34 hr 20 min",
+      "stops": "2 stops in KUL, MNL",
+      "price": "$2,257",
+      "co2_emissions": "1,199 kg CO2e",
+      "emissions_variation": "+16% emissions"
+    },
+    {
+      "airline": "KLM, Delta",
+      "departure_time": "3:55 AM",
+      "arrival_time": "6:16 PM",
+      "duration": "26 hr 51 min",
+      "stops": "2 stops in AMS, SLC",
+      "price": "$2,308",
+      "co2_emissions": "874 kg CO2e",
+      "emissions_variation": "-16% emissions"
+    },
+    {
+      "airline": "THAI, Philippine Airlines",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:50 PM",
+      "duration": "30 hr",
+      "stops": "2 stops in BKK, MNL",
+      "price": "$2,458",
+      "co2_emissions": "1,196 kg CO2e",
+      "emissions_variation": "+16% emissions"
+    },
+    {
+      "airline": "Malaysia Airlines, Philippine Airlines",
+      "departure_time": "11:00 PM",
+      "arrival_time": "8:50 PM+1",
+      "duration": "34 hr 20 min",
+      "stops": "2 stops in KUL, MNL",
+      "price": "$2,505",
+      "co2_emissions": "1,173 kg CO2e",
+      "emissions_variation": "+13% emissions"
+    },
+    {
+      "airline": "Malaysia Airlines, Philippine Airlines",
+      "departure_time": "11:00 PM",
+      "arrival_time": "8:50 PM+1",
+      "duration": "34 hr 20 min",
+      "stops": "2 stops in KUL, MNL",
+      "price": "$2,510",
+      "co2_emissions": "1,258 kg CO2e",
+      "emissions_variation": "+22% emissions"
+    },
+    {
+      "airline": "IndiGo, JAL",
+      "departure_time": "3:30 PM",
+      "arrival_time": "11:20 AM+1",
+      "duration": "32 hr 20 min",
+      "stops": "2 stops in BLR, NRT",
+      "price": "$2,646",
+      "co2_emissions": "1,435 kg CO2e",
+      "emissions_variation": "+39% emissions"
+    },
+    {
+      "airline": "IndiGo, JAL",
+      "departure_time": "4:45 PM",
+      "arrival_time": "11:20 AM+1",
+      "duration": "31 hr 5 min",
+      "stops": "2 stops in BLR, NRT",
+      "price": "$2,646",
+      "co2_emissions": "1,435 kg CO2e",
+      "emissions_variation": "+39% emissions"
+    },
+    {
+      "airline": "IndiGo, JAL",
+      "departure_time": "6:00 PM",
+      "arrival_time": "11:20 AM+1",
+      "duration": "29 hr 50 min",
+      "stops": "2 stops in BLR, NRT",
+      "price": "$2,646",
+      "co2_emissions": "1,435 kg CO2e",
+      "emissions_variation": "+39% emissions"
+    },
+    {
+      "airline": "IndiGo, JAL",
+      "departure_time": "7:00 PM",
+      "arrival_time": "11:20 AM+1",
+      "duration": "28 hr 50 min",
+      "stops": "2 stops in BLR, NRT",
+      "price": "$2,646",
+      "co2_emissions": "1,435 kg CO2e",
+      "emissions_variation": "+39% emissions"
+    },
+    {
+      "airline": "IndiGo, JAL",
+      "departure_time": "8:15 PM",
+      "arrival_time": "11:20 AM+1",
+      "duration": "27 hr 35 min",
+      "stops": "2 stops in BLR, NRT",
+      "price": "$2,646",
+      "co2_emissions": "1,435 kg CO2e",
+      "emissions_variation": "+39% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, JALAmerican",
+      "departure_time": "1:00 AM",
+      "arrival_time": "11:20 AM",
+      "duration": "22 hr 50 min",
+      "stops": "2 stops in HKG, NRT",
+      "price": "$2,937",
+      "co2_emissions": "982 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Emirates",
+      "departure_time": "4:20 PM",
+      "arrival_time": "2:00 PM+1",
+      "duration": "34 hr 10 min",
+      "stops": "1 stop in DXB",
+      "price": "$3,203",
+      "co2_emissions": "4,367 kg CO2e",
+      "emissions_variation": "+322% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, China Southern",
+      "departure_time": "1:00 AM",
+      "arrival_time": "8:40 PM",
+      "duration": "32 hr 10 min",
+      "stops": "2 stops in HKG, CAN",
+      "price": "$3,250",
+      "co2_emissions": "1,124 kg CO2e",
+      "emissions_variation": "+9% emissions"
+    },
+    {
+      "airline": "THAI, United",
+      "departure_time": "11:40 AM",
+      "arrival_time": "6:10 AM+1",
+      "duration": "31 hr",
+      "stops": "2 stops in BKK, ICN",
+      "price": "$3,270",
+      "co2_emissions": "1,193 kg CO2e",
+      "emissions_variation": "+15% emissions"
+    },
+    {
+      "airline": "THAI, United",
+      "departure_time": "11:40 AM",
+      "arrival_time": "6:10 AM+1",
+      "duration": "31 hr",
+      "stops": "2 stops in BKK, ICN",
+      "price": "$3,270",
+      "co2_emissions": "1,193 kg CO2e",
+      "emissions_variation": "+15% emissions"
+    },
+    {
+      "airline": "THAI, China Southern",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:40 PM",
+      "duration": "29 hr 50 min",
+      "stops": "2 stops in BKK, CAN",
+      "price": "$3,288",
+      "co2_emissions": "1,215 kg CO2e",
+      "emissions_variation": "+17% emissions"
+    },
+    {
+      "airline": "THAI, China Southern",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:40 PM",
+      "duration": "29 hr 50 min",
+      "stops": "2 stops in BKK, CAN",
+      "price": "$3,288",
+      "co2_emissions": "1,207 kg CO2e",
+      "emissions_variation": "+17% emissions"
+    },
+    {
+      "airline": "THAI, China Southern",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:40 PM",
+      "duration": "29 hr 50 min",
+      "stops": "2 stops in BKK, CAN",
+      "price": "$3,288",
+      "co2_emissions": "1,252 kg CO2e",
+      "emissions_variation": "+21% emissions"
+    },
+    {
+      "airline": "THAI, China Southern",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:40 PM",
+      "duration": "29 hr 50 min",
+      "stops": "2 stops in BKK, CAN",
+      "price": "$3,288",
+      "co2_emissions": "1,207 kg CO2e",
+      "emissions_variation": "+17% emissions"
+    },
+    {
+      "airline": "THAI, China Southern",
+      "departure_time": "3:20 AM",
+      "arrival_time": "8:40 PM",
+      "duration": "29 hr 50 min",
+      "stops": "2 stops in BKK, CAN",
+      "price": "$3,288",
+      "co2_emissions": "1,207 kg CO2e",
+      "emissions_variation": "+17% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, United",
+      "departure_time": "1:00 AM",
+      "arrival_time": "10:50 AM",
+      "duration": "22 hr 20 min",
+      "stops": "2 stops in HKG, TPE",
+      "price": "$3,670",
+      "co2_emissions": "1,352 kg CO2e",
+      "emissions_variation": "+31% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, United",
+      "departure_time": "1:00 AM",
+      "arrival_time": "10:50 AM",
+      "duration": "22 hr 20 min",
+      "stops": "2 stops in HKG, TPE",
+      "price": "$3,670",
+      "co2_emissions": "1,363 kg CO2e",
+      "emissions_variation": "+32% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, STARLUX Airlines",
+      "departure_time": "1:00 AM",
+      "arrival_time": "8:30 PM",
+      "duration": "32 hr",
+      "stops": "2 stops in HKG, TPE",
+      "price": "$3,711",
+      "co2_emissions": "956 kg CO2e",
+      "emissions_variation": "-8% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, STARLUX Airlines",
+      "departure_time": "1:00 AM",
+      "arrival_time": "8:30 PM",
+      "duration": "32 hr",
+      "stops": "2 stops in HKG, TPE",
+      "price": "$3,711",
+      "co2_emissions": "967 kg CO2e",
+      "emissions_variation": "-7% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, STARLUX Airlines",
+      "departure_time": "1:00 AM",
+      "arrival_time": "8:30 PM",
+      "duration": "32 hr",
+      "stops": "2 stops in HKG, TPE",
+      "price": "$3,711",
+      "co2_emissions": "962 kg CO2e",
+      "emissions_variation": "-7% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, STARLUX Airlines",
+      "departure_time": "1:00 AM",
+      "arrival_time": "8:30 PM",
+      "duration": "32 hr",
+      "stops": "2 stops in HKG, TPE",
+      "price": "$3,711",
+      "co2_emissions": "969 kg CO2e",
+      "emissions_variation": "-6% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, STARLUX Airlines",
+      "departure_time": "1:00 AM",
+      "arrival_time": "8:30 PM",
+      "duration": "32 hr",
+      "stops": "2 stops in HKG, TPE",
+      "price": "$3,711",
+      "co2_emissions": "969 kg CO2e",
+      "emissions_variation": "-6% emissions"
+    },
+    {
+      "airline": "Oman Air, Lufthansa",
+      "departure_time": "4:00 PM",
+      "arrival_time": "12:40 PM+2",
+      "duration": "57 hr 10 min",
+      "stops": "2 stops in MCT, FRA",
+      "price": "$4,313",
+      "co2_emissions": "1,112 kg CO2e",
+      "emissions_variation": "+7% emissions"
+    },
+    {
+      "airline": "British Airways, UnitedAustrian, Brussels Airlines",
+      "departure_time": "1:35 AM",
+      "arrival_time": "1:40 PM",
+      "duration": "24 hr 35 min",
+      "stops": "1 stop in LHR",
+      "price": "$4,383",
+      "co2_emissions": "1,302 kg CO2e",
+      "emissions_variation": "+26% emissions"
+    },
+    {
+      "airline": "British Airways, UnitedAustrian, Brussels Airlines",
+      "departure_time": "1:35 AM",
+      "arrival_time": "3:25 PM",
+      "duration": "26 hr 20 min",
+      "stops": "1 stop in LHR",
+      "price": "$4,383",
+      "co2_emissions": "1,302 kg CO2e",
+      "emissions_variation": "+26% emissions"
+    },
+    {
+      "airline": "British Airways, UnitedBrussels Airlines",
+      "departure_time": "1:35 AM",
+      "arrival_time": "7:20 PM",
+      "duration": "30 hr 15 min",
+      "stops": "1 stop in LHR",
+      "price": "$4,403",
+      "co2_emissions": "1,302 kg CO2e",
+      "emissions_variation": "+26% emissions"
+    },
+    {
+      "airline": "Air India, UnitedLufthansa",
+      "departure_time": "1:40 PM",
+      "arrival_time": "4:05 PM+1",
+      "duration": "38 hr 55 min",
+      "stops": "1 stop in FRA",
+      "price": "$4,421",
+      "co2_emissions": "982 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Cathay Pacific, JALAmerican",
+      "departure_time": "1:00 AM",
+      "arrival_time": "11:20 AM",
+      "duration": "22 hr 50 min",
+      "stops": "2 stops in HKG, NRT",
+      "price": "$4,525",
+      "co2_emissions": "1,066 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Cathay Pacific, United",
+      "departure_time": "1:00 AM",
+      "arrival_time": "8:50 AM",
+      "duration": "20 hr 20 min",
+      "stops": "1 stop in HKG",
+      "price": "$5,217",
+      "co2_emissions": "922 kg CO2e",
+      "emissions_variation": "-11% emissions"
+    },
+    {
+      "airline": "Cathay Pacific, UnitedANA",
+      "departure_time": "1:00 AM",
+      "arrival_time": "10:50 AM",
+      "duration": "22 hr 20 min",
+      "stops": "2 stops in HKG, KIX",
+      "price": "$6,304",
+      "co2_emissions": "1,174 kg CO2e",
+      "emissions_variation": "+13% emissions"
+    },
+    {
+      "airline": "ANA, UnitedOperated by ANA Wings",
+      "departure_time": "6:00 PM",
+      "arrival_time": "10:50 AM+1",
+      "duration": "29 hr 20 min",
+      "stops": "2 stops in HND, KIX",
+      "price": "$7,431",
+      "co2_emissions": "1,420 kg CO2e",
+      "emissions_variation": "+37% emissions"
+    },
+    {
+      "airline": "ANA, UnitedOperated by Star Flyer",
+      "departure_time": "6:00 PM",
+      "arrival_time": "10:50 AM+1",
+      "duration": "29 hr 20 min",
+      "stops": "2 stops in HND, KIX",
+      "price": "$7,431",
+      "co2_emissions": "1,426 kg CO2e",
+      "emissions_variation": "+38% emissions"
+    },
+    {
+      "airline": "ANA, United",
+      "departure_time": "6:00 PM",
+      "arrival_time": "10:50 AM+1",
+      "duration": "29 hr 20 min",
+      "stops": "2 stops in HND, KIX",
+      "price": "$7,431",
+      "co2_emissions": "1,422 kg CO2e",
+      "emissions_variation": "+37% emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "2:15 AM",
+      "arrival_time": "6:00 PM",
+      "duration": "28 hr 15 min",
+      "stops": "1 stop in BOM",
+      "price": "Price unavailable",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "5:55 AM",
+      "arrival_time": "6:00 PM",
+      "duration": "24 hr 35 min",
+      "stops": "1 stop in BOM",
+      "price": "Price unavailable",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "7:00 AM",
+      "arrival_time": "6:00 PM",
+      "duration": "23 hr 30 min",
+      "stops": "1 stop in BOM",
+      "price": "Price unavailable",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "7:30 AM",
+      "arrival_time": "6:00 PM",
+      "duration": "23 hr",
+      "stops": "1 stop in BOM",
+      "price": "Price unavailable",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "8:00 AM",
+      "arrival_time": "6:00 PM",
+      "duration": "22 hr 30 min",
+      "stops": "1 stop in BOM",
+      "price": "Price unavailable",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "8:30 AM",
+      "arrival_time": "6:00 PM",
+      "duration": "22 hr",
+      "stops": "1 stop in BOM",
+      "price": "Price unavailable",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "9:00 AM",
+      "arrival_time": "6:00 PM",
+      "duration": "21 hr 30 min",
+      "stops": "1 stop in BOM",
+      "price": "Price unavailable",
+      "co2_emissions": "1,078 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Singapore Airlines",
+      "departure_time": "9:00 AM",
+      "arrival_time": "8:15 PM",
+      "duration": "23 hr 45 min",
+      "stops": "1 stop in SIN",
+      "price": "Price unavailable",
+      "co2_emissions": "1,492 kg CO2e",
+      "emissions_variation": "+44% emissions"
+    },
+    {
+      "airline": "Singapore Airlines",
+      "departure_time": "9:00 AM",
+      "arrival_time": "9:40 AM+1",
+      "duration": "37 hr 10 min",
+      "stops": "1 stop in SIN",
+      "price": "Price unavailable",
+      "co2_emissions": "1,031 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "12:10 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "41 hr 50 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "2:10 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "39 hr 50 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "3:30 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "38 hr 30 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "4:00 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "38 hr",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "5:00 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "37 hr",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "6:15 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "35 hr 45 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "7:25 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "34 hr 35 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "8:10 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "33 hr 50 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "8:30 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "33 hr 30 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Air India",
+      "departure_time": "9:35 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "32 hr 25 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "998 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Singapore Airlines",
+      "departure_time": "9:55 PM",
+      "arrival_time": "9:40 AM+1",
+      "duration": "24 hr 15 min",
+      "stops": "1 stop in SIN",
+      "price": "Price unavailable",
+      "co2_emissions": "1,150 kg CO2e",
+      "emissions_variation": "+11% emissions"
+    },
+    {
+      "airline": "Singapore Airlines",
+      "departure_time": "9:55 PM",
+      "arrival_time": "8:15 PM+1",
+      "duration": "34 hr 50 min",
+      "stops": "1 stop in SIN",
+      "price": "Price unavailable",
+      "co2_emissions": "1,612 kg CO2e",
+      "emissions_variation": "+56% emissions"
+    },
+    {
+      "airline": "Air India Express, Air India",
+      "departure_time": "10:10 PM",
+      "arrival_time": "5:30 PM+1",
+      "duration": "31 hr 50 min",
+      "stops": "1 stop in BLR",
+      "price": "Price unavailable",
+      "co2_emissions": "1,016 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    },
+    {
+      "airline": "Vietnam Airlines",
+      "departure_time": "11:35 PM",
+      "arrival_time": "6:40 PM+1",
+      "duration": "31 hr 35 min",
+      "stops": "1 stop in SGN",
+      "price": "Price unavailable",
+      "co2_emissions": "1,067 kg CO2e",
+      "emissions_variation": "Avg emissions"
+    }
+  ]
+}
